@@ -5,3 +5,11 @@ body {
 button {
     margin-right: 10px;
 }
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.todo-complete {
+    text-decoration: line-through;
+}
