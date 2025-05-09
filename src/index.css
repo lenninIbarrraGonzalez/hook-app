@@ -13,3 +13,7 @@ button {
 .todo-complete {
     text-decoration: line-through;
 }
+
+a {
+    margin-right: 5px;
+}
